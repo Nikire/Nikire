@@ -5,7 +5,7 @@
 <a href="mailto:erikpastuszek@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
-*I’m a Jr. FullStack Developer searching for a IT Job.
+*I’m a Jr. FullStack Developer searching for an IT Job.
 
 
 
