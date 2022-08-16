@@ -1,7 +1,7 @@
 <p align="center"> <h1 align="center"> Hi, I am Erik Pastuszek 👋</h1> </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/erikpastuszekdev//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://leetcode.com/imkashyap/"><img src="https://img.shields.io/badge/-CodeWars-121216?style=for-the-badge&logo=CodeWars&logoColor=red"/> </a>
+<a href="https://www.codewars.com/users/Nikire"><img src="https://img.shields.io/badge/-CodeWars-121216?style=for-the-badge&logo=CodeWars&logoColor=red"/> </a>
 <a href="mailto:erikpastuszek@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
