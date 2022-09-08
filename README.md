@@ -5,10 +5,8 @@
 <a href="mailto:erikpastuszek@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
-*I’m a Jr. FullStack Developer searching for an IT Job.
 
-
-
+*I’m a Jr. FullStack Developer searching for an IT Job. 🔍*
 
 **🛠 &nbsp;Tech Stack**
 
@@ -49,15 +47,28 @@
   ![GIT](https://img.shields.io/badge/-GIT-333333?style=flat&logo=git)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0079BF)
 
-<!--
-Here are some ideas to get you started:
+**🔨 &nbsp;Currently working ...**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- On a [📃 dice game](https://github.com/Nikire/diezmil) called 10000 🎲, the idea of the project it is to make it playable and multiplayer using [Material UI](https://mui.com/) as a base for my page and using [React](https://reactjs.org/) to make it SPA (Single page aplicattion) and [Socket.io](https://socket.io/) to make it multiplayer 🤼.
+
+- As a Full-Stack Teaching Assistant 👨‍🏫, so I lead a group of people who are learning in [SoyHenry Bootcamp](https://www.soyhenry.com/) and we have a [📃 repository](https://github.com/Nikire/Grupo01SUP) to share code and contribute so everyone can learn. 
+
+**📚 &nbsp;Currently Learning**
+
+- I have interest in new technollogies, so I try to make projects to train them and to get into them. Im currently learning: &nbsp;
+
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
+  ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socket.io)
+
+- I also have other interests,these are some of my future learnings:
+  
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+  ![AngularJs](https://img.shields.io/badge/-AngularJs-333333?style=flat&logo=angular&logoColor=DD0031)
+
+**💬 &nbsp;Contact**
+
+Feel free to chat me! I always try to reply every message, so if im not responding, then im probably coding 👨‍💻😋 
+- [Linkedin](https:/www.linkedin.com/in/erikpastuszekdev/)
+- <a href="mailto:erikpastuszek@gmail.com">Mail</a>
