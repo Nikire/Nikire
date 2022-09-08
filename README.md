@@ -24,7 +24,8 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=C14112)
-  
+  ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
+
 - Libraries:  &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=7649BB)
@@ -40,6 +41,9 @@
 - IDEs: &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublimetext)
+
+- Preprocessors: &nbsp;
+![Less](https://img.shields.io/badge/-Less-333333?style=flat&logo=less&logoColor=1D365D)
 
 - Softwares: &nbsp;
   ![GIT](https://img.shields.io/badge/-GIT-333333?style=flat&logo=git)
