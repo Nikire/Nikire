@@ -6,7 +6,7 @@
 </p>
 
 
-*I’m a Jr. FullStack Developer searching for an IT Job. 🔍*
+*I’m a Jr. FullStack Developer working at EZ-AD company*
 
 **🛠 &nbsp;Tech Stack**
 
@@ -41,7 +41,7 @@
   ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublimetext)
 
 - Preprocessors: &nbsp;
-![Less](https://img.shields.io/badge/-Less-333333?style=flat&logo=less&logoColor=1D365D)
+  ![Less](https://img.shields.io/badge/-Less-333333?style=flat&logo=less&logoColor=1D365D)
 
 - Softwares: &nbsp;
   ![GIT](https://img.shields.io/badge/-GIT-333333?style=flat&logo=git)
@@ -49,9 +49,14 @@
 
 **🔨 &nbsp;Currently working ...**
 
+- As a Full-Stack Developer at EZ-AD Company, Im working using PHP Stack, with Vue.js at the front-end and PHP with RPG framework, which is the comapny's framework,similar to Laravel.
+
+- I'm developing a [👥 REST API for blogs](https://github.com/Nikire/PERN-api-blog), it is a PERN stack based API, with uses of jwt auth, bcrypt for passwords, created middlewares and documentation.
+
 - On a [📃 dice game](https://github.com/Nikire/diezmil) called 10000 🎲, the idea of the project it is to make it playable and multiplayer using [Material UI](https://mui.com/) as a base for my page and using [React](https://reactjs.org/) to make it SPA (Single page aplicattion) and [Socket.io](https://socket.io/) to make it multiplayer 🤼.
 
 - As a Full-Stack Teaching Assistant 👨‍🏫, so I lead a group of people who are learning in [SoyHenry Bootcamp](https://www.soyhenry.com/) and we have a [📃 repository](https://github.com/Nikire/Grupo01SUP) to share code and contribute so everyone can learn. 
+
 
 **📚 &nbsp;Currently Learning**
 
@@ -60,11 +65,11 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
   ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socket.io)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 
 - I also have other interests,these are some of my future learnings:
   
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
   ![AngularJs](https://img.shields.io/badge/-AngularJs-333333?style=flat&logo=angular&logoColor=DD0031)
 
 **💬 &nbsp;Contact**
