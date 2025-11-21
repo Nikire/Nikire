@@ -1,66 +1,196 @@
-<p align="center"> <h1 align="center"> Hi, I am Erik Pastuszek 👋</h1> </p>
-<p align="center">
-<a href="https:/www.linkedin.com/in/erikpastuszekdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://www.codewars.com/users/Nikire"><img src="https://img.shields.io/badge/-CodeWars-121216?style=for-the-badge&logo=CodeWars&logoColor=red"/> </a>
-<a href="mailto:erikpastuszek@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-</p>
+<div align="center">
 
+# Hi there, I'm Erik Pastuszek 👋
 
-*I’m a FullStack Developer working at Dedalord company*
+### Full Stack Developer | AI Enthusiast | Problem Solver
 
-**🛠 &nbsp;Tech Stack**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikpastuszekdev/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erikpastuszek@gmail.com)
+[![CodeWars](https://img.shields.io/badge/-CodeWars-B1361E?style=for-the-badge&logo=CodeWars&logoColor=white)](https://www.codewars.com/users/Nikire)
 
-- Languages: &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=8993C1)
-  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
-  
-- Frameworks: &nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=C14112)
-  ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+</div>
 
-- Libraries:  &nbsp;
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=7649BB)
-  ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socket.io)
+---
 
-- Databases:  &nbsp;
-  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+## 🚀 About Me
 
-- ORM's:  &nbsp;
-  ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)  
+I'm a **self-taught Full Stack Developer** from Buenos Aires, Argentina, with a passion for building robust, scalable applications that solve real-world problems. With experience spanning AI-powered systems, enterprise platforms, and cross-functional collaboration, I specialize in turning complex requirements into elegant solutions.
 
-- IDEs: &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublimetext)
+- 🔭 **Currently seeking**: Senior Full Stack Developer opportunities
+- 💼 **Recent work**: Building AI-driven procedural systems and real estate management platforms
+- 🌱 **Learning**: MongoDB, advanced system architecture patterns
+- 🏆 **Achievements**: Multiple 1st place finishes in National Electronics Olympics
+- 🎮 **Interests**: Gaming, electronics tinkering, and emerging technologies
+- 🌍 **Languages**: Spanish (Native), English (C1)
 
-- Preprocessors: &nbsp;
-  ![Less](https://img.shields.io/badge/-Less-333333?style=flat&logo=less&logoColor=1D365D)
+---
 
-- Softwares: &nbsp;
-  ![GIT](https://img.shields.io/badge/-GIT-333333?style=flat&logo=git)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0079BF)
+## 💻 Tech Stack
 
-**📚 &nbsp;Currently Learning**
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=777BB4)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
-- I have interest in new technollogies, so I try to make projects to train them and to get into them. Im currently learning: &nbsp;
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
+![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=2D3748)
+![TypeORM](https://img.shields.io/badge/-TypeORM-333333?style=flat&logo=typeorm&logoColor=FE0803)
 
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+### Frontend
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=764ABC)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+![Vuex](https://img.shields.io/badge/-Vuex-333333?style=flat&logo=vue.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
+![Material UI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=mui&logoColor=007FFF)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 
-- I also have other interests,these are some of my future learnings:
-  
-  ![AngularJs](https://img.shields.io/badge/-AngularJs-333333?style=flat&logo=angular&logoColor=DD0031)
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 
-**💬 &nbsp;Contact**
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=FF9900)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=C21325)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-Feel free to chat me! I always try to reply every message, so if im not responding, then im probably coding 👨‍💻😋 
-- [Linkedin](https:/www.linkedin.com/in/erikpastuszekdev/)
-- <a href="mailto:erikpastuszek@gmail.com">Mail</a>
+### Specializations
+![AI](https://img.shields.io/badge/-Prompt%20Engineering-333333?style=flat&logo=openai)
+![API Integration](https://img.shields.io/badge/-API%20Integration-333333?style=flat&logo=fastapi)
+
+---
+
+## 🎯 Featured Projects
+
+<!-- Replace the sections below with your actual repository links and details -->
+
+### 🔧 [RecruitingTool](https://github.com/Nikire/RecruitingTool)
+> **A comprehensive recruiting and applicant tracking solution**
+- Built with modern full-stack technologies
+- Features automated workflows and candidate management
+- **Tech**: [Add your tech stack here]
+
+### 🎮 [Project Name 2](https://github.com/Nikire/your-repo)
+> **Brief, impactful description of what this project does**
+- Key feature or achievement #1
+- Key feature or achievement #2
+- **Tech**: [Your tech stack]
+
+### 🚀 [Project Name 3](https://github.com/Nikire/your-repo)
+> **Brief, impactful description**
+- Key feature or achievement #1
+- Key feature or achievement #2
+- **Tech**: [Your tech stack]
+
+<!--
+To customize:
+1. Replace the repository links above with your actual GitHub project URLs
+2. Update project names and descriptions
+3. Add 2-4 of your best/most recent projects
+4. Highlight measurable achievements (users, performance gains, etc.)
+-->
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Erik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikire&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikire&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikire&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 💼 Professional Experience Highlights
+
+**Full Stack Developer @ Moovx** (2025)
+- Localized real estate management platform for the Argentinian market
+- Technologies: React, Next.js, NestJS, TypeORM, Tailwind CSS
+
+**Full Stack Developer @ Dedalord** (2024)
+- Developed AI-powered procedural case-generation system for mobile detective game
+- Built backend services, automation pipelines, and integrated frontend features
+- Technologies: TypeScript, NestJS, Prisma, Docker, Python, AWS, React, Redux
+
+**Full Stack Developer @ EZ-AD TV** (2022-2023)
+- Developed features for internal systems and AI-powered tools
+- Technologies: PHP, MySQL, Vue.js, Redis, Custom Framework
+
+<details>
+<summary>📚 View More Experience</summary>
+
+**Teaching Assistant @ Henry Bootcamp** (2022)
+- Guided students through web development fundamentals
+- Facilitated group collaboration and technical problem-solving
+
+**PHP Developer @ Claromeconet Propiedades** (2018-2020)
+- Full-stack development, admin panels, database architecture
+- Technologies: PHP 7, MySQL, JavaScript, Bootstrap, Google APIs
+
+</details>
+
+---
+
+## 🏆 Achievements & Recognition
+
+- 🥇 **1st Place** - INET Institutional Electronics Olympics (2019)
+- 🥇 **1st Place** - Buenos Aires Provincial Electronics Olympics (2019)
+- 🎖️ **Special Mention** - National Electronics Olympics INET (2019)
+- 🏅 **Best Companion Award** - Rotary Club Quilmes (2012, 2019)
+
+---
+
+## 🎓 Education & Certifications
+
+**Universidad de Buenos Aires** - Computer Engineering (2020-2021)
+
+**EEST N°2 Paula Albarracín** - Electronic Technician (2013-2019)
+
+**Professional Development:**
+- JavaScript from 0 to Details - Fernando Herrera
+- Node.js from 0 to Expert - Fernando Herrera
+- Full-Stack Web Development - SoyHenry (PERN Stack)
+- MongoDB from 0 to Expert - Numpi (In Progress)
+
+---
+
+## 🤝 Let's Connect!
+
+I'm actively seeking **Senior Full Stack Developer** opportunities where I can contribute my expertise in building scalable applications, AI integration, and leading technical initiatives.
+
+**Open to:**
+- Full-time positions
+- Interesting contract work
+- Technical collaborations
+- Open source contributions
+
+**Reach out:**
+- 📧 Email: [erikpastuszek@gmail.com](mailto:erikpastuszek@gmail.com)
+- 💼 LinkedIn: [erikpastuszekdev](https://www.linkedin.com/in/erikpastuszekdev/)
+- 💻 Always happy to discuss technology, projects, or opportunities!
+
+---
+
+<div align="center">
+
+### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nikire&color=blueviolet&style=flat-square)
+
+</div>
