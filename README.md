@@ -174,7 +174,7 @@ I'm a **self-taught Full Stack Developer** from Buenos Aires, Argentina, with a 
 
 ## 🤝 Let's Connect!
 
-I'm actively seeking **Senior Full Stack Developer** opportunities where I can contribute my expertise in building scalable applications, AI integration, and leading technical initiatives.
+I'm actively seeking **Semi Senior Full Stack Developer** opportunities where I can contribute my expertise in building scalable applications, AI integration, and leading technical initiatives.
 
 **Open to:**
 - Full-time positions
@@ -190,8 +190,6 @@ I'm actively seeking **Senior Full Stack Developer** opportunities where I can c
 ---
 
 <div align="center">
-
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nikire&color=blueviolet&style=flat-square)
 
