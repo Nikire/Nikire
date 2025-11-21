@@ -73,33 +73,35 @@ I'm a **self-taught Full Stack Developer** from Buenos Aires, Argentina, with a 
 
 ## 🎯 Featured Projects
 
-<!-- Replace the sections below with your actual repository links and details -->
-
 ### 🔧 [RecruitingTool](https://github.com/Nikire/RecruitingTool)
-> **A comprehensive recruiting and applicant tracking solution**
-- Built with modern full-stack technologies
-- Features automated workflows and candidate management
-- **Tech**: [Add your tech stack here]
+> **Modern recruiting and applicant tracking solution**
+- Built with enterprise-grade architecture and best practices
+- Streamlines candidate management and hiring workflows
+- **Tech**: TypeScript, NestJS, React
 
-### 🎮 [Project Name 2](https://github.com/Nikire/your-repo)
-> **Brief, impactful description of what this project does**
-- Key feature or achievement #1
-- Key feature or achievement #2
-- **Tech**: [Your tech stack]
+### 📝 [PERN-api-blog](https://github.com/Nikire/PERN-api-blog)
+> **Full-stack blog platform with RESTful API** ⭐ 9 stars
+- Complete CRUD operations with PostgreSQL database
+- Authentication and authorization system
+- **Tech**: PostgreSQL, Express.js, React, Node.js (PERN Stack)
 
-### 🚀 [Project Name 3](https://github.com/Nikire/your-repo)
-> **Brief, impactful description**
-- Key feature or achievement #1
-- Key feature or achievement #2
-- **Tech**: [Your tech stack]
+### 🤖 [aieditor-api](https://github.com/Nikire/aieditor-api)
+> **AI-powered content editing API**
+- Integrates AI capabilities for intelligent content processing
+- RESTful architecture with modern TypeScript patterns
+- **Tech**: TypeScript, NestJS, AI Integration
 
-<!--
-To customize:
-1. Replace the repository links above with your actual GitHub project URLs
-2. Update project names and descriptions
-3. Add 2-4 of your best/most recent projects
-4. Highlight measurable achievements (users, performance gains, etc.)
--->
+### 📄 [HarvestCVExporter](https://github.com/Nikire/HarvestCVExporter)
+> **Automated CV export and processing utility**
+- Simplifies resume data extraction and formatting
+- Built for recruitment workflow automation
+- **Tech**: JavaScript, Node.js
+
+### 💬 [WebSocketChat](https://github.com/Nikire/WebSocketChat)
+> **Real-time chat application** ⭐ 2 stars
+- Bi-directional communication using WebSockets
+- Live messaging with Socket.io implementation
+- **Tech**: JavaScript, Socket.io, Node.js, Express
 
 ---
 
