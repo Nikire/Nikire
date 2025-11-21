@@ -16,7 +16,7 @@
 
 I'm a **self-taught Full Stack Developer** from Buenos Aires, Argentina, with a passion for building robust, scalable applications that solve real-world problems. With experience spanning AI-powered systems, enterprise platforms, and cross-functional collaboration, I specialize in turning complex requirements into elegant solutions.
 
-- 🔭 **Currently seeking**: Senior Full Stack Developer opportunities
+- 🔭 **Currently seeking**: Semi Senior Full Stack Developer opportunities
 - 💼 **Recent work**: Building AI-driven procedural systems and real estate management platforms
 - 🌱 **Learning**: MongoDB, advanced system architecture patterns
 - 🏆 **Achievements**: Multiple 1st place finishes in National Electronics Olympics
